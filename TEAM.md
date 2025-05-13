@@ -2,7 +2,7 @@ Team Roles and Assigned Task
 
 | Name | Role | Mini Tasks |
 |------|------|-------------|
-| Bennetta T. Gondah | Network Infrastructure Designer| design  the network diqagram and set up route
+| Bennetta T. Gondah | Network Infrastructure Designer| design  the network diqagram and set up the route topologies
 | Bob  Willie| Backend Developer | Setup server, create first API route |
 | Edward Barclay| Database Designer | Design ER diagram, draft schema |
 | Dave | DevOps | Setup GitHub folders, manage branches |
